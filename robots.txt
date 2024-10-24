@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://lohowobu.github.io/sitemap/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/NYF/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/Eol/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/xVp/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/avt/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/YiC/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/YIJ/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/CQI/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/vqJ/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/UuR/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/MsA/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/nHD/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/XLV/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/Jte/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/pbM/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/Dgo/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/yok/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/ANJ/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/jKf/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/oAs/sitemap_index.lohowobu
+Sitemap: https://lohowobu.github.io/ohx/sitemap_index.lohowobu
